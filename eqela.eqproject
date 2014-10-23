@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# AppThurs23
+#
+
+projectname: AppThurs23
+vendorid: com.mycompany
+mainmodule: com.mycompany.appthurs23
